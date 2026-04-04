@@ -41,7 +41,6 @@
   "dependencies": {
     "@better-auth/core": "1.5.5",
     "@better-auth/utils": "0.3.1",
-    "@cfworker/json-schema": "^4.1.1",
     "@cloudflare/workers-oauth-provider": "^0.3.0",
     "@hono/zod-validator": "^0.7.6",
     "@hookform/resolvers": "^5.2.2",
@@ -79,7 +78,6 @@
     "agents": "^0.7.7",
     "ai": "^6.0.23",
     "better-auth": "1.5.5",
-    "better-call": "1.3.2",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "drizzle-orm": "^0.44.7",
@@ -97,7 +95,6 @@
     "react-hook-form": "^7.68.0",
     "react-textarea-autosize": "^8.5.9",
     "recharts": "^3.6.0",
-    "resend": "^6.6.0",
     "sonner": "^2.0.7",
     "tailwind-merge": "^3.0.2",
     "tailwindcss": "^4.0.6",
